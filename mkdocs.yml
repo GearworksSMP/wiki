@@ -1,6 +1,10 @@
 site_name: Gearworks Wiki
 site_url: https://wiki.gearworkssmp.com
+repo_url: https://github.com/GearworksSMP/wiki
+edit_uri: blob/main/docs/
 theme:
   name: material
+  features:
+    - content.action.edit
   palette:
     scheme: slate
