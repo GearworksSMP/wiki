@@ -1,0 +1,6 @@
+site_name: Gearworks Wiki
+site_url: https://wiki.gearworkssmp.com
+theme:
+  name: material
+  palette:
+    scheme: slate
