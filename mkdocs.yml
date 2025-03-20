@@ -2,6 +2,12 @@ site_name: Gearworks Wiki
 site_url: https://wiki.gearworkssmp.com
 repo_url: https://github.com/GearworksSMP/wiki
 edit_uri: blob/main/docs/
+nav:
+  - Home: index.md
+  - Getting Started: getting-started.md
+  - Servers: servers.md
+  - Mods: mods.md
+  - Developers: developers.md
 theme:
   name: material
   features:

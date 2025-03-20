@@ -1,17 +1,23 @@
-# Welcome to MkDocs
+# Welcome to the Gearworks Wiki
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+This wiki strives to document everything about the Gearworks SMP ([https://gearworkssmp.com](https://gearworkssmp.com))
 
-## Commands
+## New to the server?
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+Are you new to the server? Have a look at the [Getting Started](getting-started.md) section.
 
-## Project layout
+## Helpful information
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+For server specific documentation check the [Servers](servers.md) page.
+
+To see specific information about certain mods please take a look at the [Mods](mods.md) page.
+
+## Useful links
+
+You can edit this wiki on Github here: [https://github.com/GearworksSMP/wiki](https://github.com/GearworksSMP/wiki)
+
+Join the Discord to chat with our community: [https://discord.gg/NQJuhb6stv](https://github.com/GearworksSMP/wiki)
+
+## For developers
+
+For technical information about the server setup please see [Developers](developers).
