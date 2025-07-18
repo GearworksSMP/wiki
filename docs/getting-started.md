@@ -2,6 +2,14 @@
 
 This page will help you get started on Gearworks
 
+## Joining the server
+
+You need to be a paid Patreon member to join, here is the Patreon link: https://www.patreon.com/c/Uberswe
+
+**Make sure to link your Discord account to your Patreon to get the role on Discord.** You can do this by logging in to your Patreon account and navigate to the Settings page, then find the "Connected Apps" section. 
+
+Then use the code you receive in-game when trying to connect to the server to link your MC account to Discord and you will automatically be whitelisted. To link your account simply send the code in the #bot-commands channel.
+
 ## Server IP
 
 The server IP is included in the [Create: Gearworks modpack available on Curseforge](https://www.curseforge.com/minecraft/modpacks/create-gearworks).

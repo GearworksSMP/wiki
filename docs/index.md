@@ -10,13 +10,13 @@ Are you new to the server? Have a look at the [Getting Started](getting-started.
 
 For server specific documentation check the [Servers](servers.md) page.
 
-To see specific information about certain mods please take a look at the [Mods](mods.md) page.
+To see specific information about certain mods please take a look at the [Mods](mods.md) page. For a full list of mods please see the latest version of the [modpack](https://www.curseforge.com/minecraft/modpacks/create-gearworks).
 
 ## Useful links
 
 You can edit this wiki on Github here: [https://github.com/GearworksSMP/wiki](https://github.com/GearworksSMP/wiki)
 
-Join the Discord to chat with our community: [https://discord.gg/NQJuhb6stv](https://github.com/GearworksSMP/wiki)
+Join the Discord to chat with our community: [https://discord.gg/NQJuhb6stv](https://discord.gg/NQJuhb6stv)
 
 ## For developers
 
