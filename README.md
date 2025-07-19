@@ -26,6 +26,12 @@ The wiki is configured to use the custom domain `wiki.gearworkssmp.com`. To main
 
 This wiki uses MkDocs. For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
+### Python activate env
+```
+python -m venv .venv # make the environment if needed
+source ./.venv/bin/activate.fish # activate the environment
+```
+
 ### Install
 ```
 pip install mkdocs
